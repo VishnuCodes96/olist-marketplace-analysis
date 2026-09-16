@@ -490,16 +490,6 @@ The notebook expects the CSV filenames listed in the **Dataset** section.
 
 ### 4. Launch Jupyter Notebook
 
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-Olist_Marketplace_Performance_Customer_Experience_Analysis.ipynb
-```
-
 and run the notebook from top to bottom.
 
 ---
