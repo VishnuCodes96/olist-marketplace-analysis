@@ -474,7 +474,7 @@ If the datasets are not stored in the repository, place the CSV files in the not
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone 'https://github.com/VishnuCodes96/olist-marketplace-analysis.git'
 cd Olist-Marketplace-Performance-Customer-Experience-Analysis
 ```
 
